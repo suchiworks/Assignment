@@ -1,5 +1,5 @@
 package nov1Assg;
-
+//wap to find duplicate values of an array of integer values
 public class DuplicateValue {
 
 	public static void main(String[] args) {
