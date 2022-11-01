@@ -1,5 +1,5 @@
 package nov1Assg;
-
+//we need to print the elements of the array which are present in odd position
 public class OddPosition {
 
 	public static void main(String[] args) {
