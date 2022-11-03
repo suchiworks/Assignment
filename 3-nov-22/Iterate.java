@@ -1,5 +1,5 @@
 package Nov3Assg;
-
+//Write a Java program to copy an array by iterating the array.
 public class Iterate {
 
 	public static void main(String[] args) {
